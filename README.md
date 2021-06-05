@@ -24,7 +24,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolgyu3@gmail.com)](mailto:coolgyu3@gmail.com)
 	
 
-<h2>📚 Tech Stack 📚</h2>
+<h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
