@@ -1,10 +1,9 @@
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcreativeGYU&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+
 
 # **Data Scientist** 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcreativeGYU)](https://hits.seeyoufarm.com) 
-</div>
+<p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcreativeGYU&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 [![Tae Gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=creativeGYU)](https://github.com/creativeGYU/github-readme-stats)
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativeGYU&layout=compact)](https://github.com/creativeGYU/github-readme-stats)
@@ -25,7 +24,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolgyu3@gmail.com)](mailto:coolgyu3@gmail.com)
 	
 
-<h3>📚 Tech Stack 📚</h3>
+<h2>📚 Tech Stack 📚</h2>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
