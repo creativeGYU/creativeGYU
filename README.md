@@ -7,8 +7,8 @@
 
 
 
-- Enjoying Data Handling as well as Modeling
-- Data Analytics Planning is fun :)
+- Enjoying Data Handling 
+- Data 
 
 ## **Keywords about ME**
 
