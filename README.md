@@ -1,8 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcreativeGYU)](https://hits.seeyoufarm.com) 
 
 </div>
-# **Data Scientist** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcreativeGYU)](https://hits.seeyoufarm.com) 
-  [![Tae Gyu's github stats](https://github-readme-stats.vercel.app/api?username=creativeGYU)](https://github.com/creativeGYU/github-readme-stats)
+# **Data Scientist** 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcreativeGYU)](https://hits.seeyoufarm.com) 
+[![Tae Gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=creativeGYU)](https://github.com/creativeGYU/github-readme-stats)
+
 
 
 - Enjoying Data Handling as well as Modeling
