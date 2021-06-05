@@ -3,25 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 </div>
-
-### 데싸 입니다.
-- 데이터 사이언티스트 in ABC Corp.
-- I organize a group of developers who write blog posts
-
-### Interest
-- Google Cloud Platform(Especially, BigQuery)
-- Leadership, Mentoring, Writing, Presentation
-
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://creativeGYU.github.io/)](https://creativeGYU.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/test/)](https://www.linkedin.com/in/a/) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com](https://www.youtube.com) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/taegyu.lee.forever)](https://www.facebook.com/taegyu.lee.forever) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taegyu.lee.forever/)](https://www.instagram.com/taegyu.lee.forever/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolgyu3@gmail.com)](mailto:coolgyu3@gmail.com)
-</div>
-
 # **Data Scientist** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcreativeGYU)](https://hits.seeyoufarm.com) 
   [![Tae Gyu's github stats](https://github-readme-stats.vercel.app/api?username=creativeGYU)](https://github.com/creativeGYU/github-readme-stats)
 
@@ -31,15 +12,18 @@
 
 ## **Keywords about ME**
 
-####  #Data #Passion #KPMG #Lighthouse #Data Science #ML/DL #Modeler
+####  #Data #Passion #Data Science #Java #SQL
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-you-kim-5204184b/)](https://www.linkedin.com/in/tae-you-kim-5204184b/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/taegyu.lee.forever)](https://www.facebook.com/taegyu.lee.forever) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolgyu3@gmail.com)](mailto:coolgyu3@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://creativeGYU.github.io/)](https://creativeGYU.github.io/) 
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taegyu.lee.forever/)](https://www.instagram.com/taegyu.lee.forever/)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/taegyu.lee.forever)](https://www.facebook.com/taegyu.lee.forever) 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolgyu3@gmail.com)](mailto:coolgyu3@gmail.com)
 	
 
 
 
 <!--
-**shoman2/shoman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**creativeGYU/creativeGYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
