@@ -18,7 +18,7 @@
 
 ####  #Data #Passion #Data Science #Java #SQL
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://creativeGYU.github.io/)](https://creativeGYU.github.io/) 
+  [![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://creativeGYU.github.io/)](https://creativeGYU.github.io/) 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taegyu.lee.forever/)](https://www.instagram.com/taegyu.lee.forever/)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/taegyu.lee.forever)](https://www.facebook.com/taegyu.lee.forever) 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coolgyu3@gmail.com)](mailto:coolgyu3@gmail.com)
@@ -28,6 +28,8 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
+
 </p>
 
 <!--
