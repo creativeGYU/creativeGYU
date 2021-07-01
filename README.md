@@ -16,7 +16,7 @@
 
 ## **Keywords about ME**
 
-####  #Data #Passion #Data Science #Java #SQL
+####  #Data #Passion #Data Science #Java #SQL #HTML #CSS #JavaScript
 
   [![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://creativeGYU.github.io/)](https://creativeGYU.github.io/) 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taegyu.lee.forever/)](https://www.instagram.com/taegyu.lee.forever/)
@@ -29,7 +29,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
-
+  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
 </p>
 
 <!--
