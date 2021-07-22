@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>&nbsp
+  <img src ="https://img.shields.io/badge/SpringBoot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
